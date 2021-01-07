@@ -1,5 +1,4 @@
-﻿ <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+﻿<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="NetTV.id">
     <display-name lang="en">NET.</display-name>
     <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
